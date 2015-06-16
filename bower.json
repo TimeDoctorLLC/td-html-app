@@ -1,0 +1,11 @@
+{
+  "name": "jsdatatest",
+  "description": "JS Data Test",
+  "version": "0.1.0",
+  "main": "index",
+  "dependencies": {
+    "js-data": "~1.8.0",
+    "js-data-http": "~1.2.3",
+    "js-data-angular": "~2.4.0"
+  }
+}
